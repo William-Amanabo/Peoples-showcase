@@ -1,2 +1,2 @@
-# Modern showcase website 
+# Modern showcase website with gsap
 ![](readme.gif)
